@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nicholas Stephan]]></title>
+        <description><![CDATA[Nicholas Stephan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 20:15:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Project]]></title>
+            <description><![CDATA[<article><h1>Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d450194d9a6f1d00e90cae039a4af0f836d409ae.png"></article>]]></description>
+            <link>undefinedproject/index.html</link>
+            <guid isPermaLink="false">32e502f1-d00e-46f7-9634-eeecbe93fcd2</guid>
+            <pubDate>Wed, 13 Apr 2016 20:15:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
