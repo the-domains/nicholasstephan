@@ -1,6 +1,6 @@
 name: Nicholas Stephan
 favicon: null
-layout_spectrum: 0.36234761751256883
+layout_spectrum: 1
 typography_spectrum: 0.004335867939516902
 title: Nicholas Stephan
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.23263500537723303
-  lightness: 0.1441108318977058
-  saturation: 0.2591919892001897
-  rhythmicContrast: 0.159457647241652
+  brandStrength: 0
+  lightness: 0.0625
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
